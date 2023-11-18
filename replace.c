@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main()
 {
-    printf("My first file in lab2");
+    printf("My Second file in lab2");
 }
